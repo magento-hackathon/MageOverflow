@@ -1,0 +1,9 @@
+<?php
+// Consumer key
+$consumerKey = "1234567890";
+// Consumer secret
+$consumerSecret = "1234567890";
+// Access token
+$accessToken = "1234567890";
+// Access token secret
+$accessTokenSecret = "1234567890";
