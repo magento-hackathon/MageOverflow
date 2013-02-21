@@ -7,3 +7,7 @@ $consumerSecret = "1234567890";
 $accessToken = "1234567890";
 // Access token secret
 $accessTokenSecret = "1234567890";
+// bit.ly logincredentials
+$bitlyLogin = '1234567890';
+// bit.ly api key
+$bitlyApiKey = '1234567890';
